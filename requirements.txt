@@ -1,0 +1,21 @@
+
+torch>=2.0.0
+torchvision>=0.15.0
+
+
+causal-conv1d>=1.0.0
+mamba-ssm>=1.0.1
+
+
+timm>=0.9.0
+einops>=0.6.0
+
+
+numpy>=1.24.0
+scipy>=1.10.0
+nibabel>=5.0.0  # For NIfTI (.nii.gz) file handling
+
+
+matplotlib>=3.7.0
+tensorboardX>=2.6
+tqdm>=4.65.0
